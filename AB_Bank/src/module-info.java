@@ -1,2 +1,3 @@
-module AB_Bank {
+public class AB_Bank {
+	
 }
