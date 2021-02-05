@@ -1,0 +1,2 @@
+module AB_Bank {
+}
